@@ -59,7 +59,7 @@ document.querySelectorAll('.project-card, .skill-tag').forEach(el => {
 });
 
 // Typing effect for hero text
-const heroText = "Full Stack Developer & Creative Problem Solver";
+const heroText = "I'm a Front End Developer";
 const heroP = document.querySelector('.hero-content p');
 let i = 0;
 
